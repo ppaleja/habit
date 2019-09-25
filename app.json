@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Habit Tracker",
+    "slug": "habit-tracker",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "A simple app that allows you to add and track habits that you wish to develop. Built based on framework provided by time-tracking app from Fullstack React Native by Devin Abbot et al.\n\nVersion a.1\n\nCurrent Functionality:\n  - You can add/remove habits\n  - Habits are defined by their name and what group they belong to\n  - You can 'track' your habit, by clicking the 'Complete' button when you have done the self-prescribed task. \n     The app will keep track of your streak of completing the habits. It will reset if you miss a day.\n\nFuture functionality:\n  - Be able to make habits only for specific days.\n  - Calendar view, to track which days you made it\n  - Unit functionality, (e.g. do 15 pushups, you can track each individual pushup)\n  - Timer functionality, (e.g. meditate for 15 minutes, will actually time you)"
+  }
+}
