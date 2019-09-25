@@ -1,4 +1,7 @@
  # Habit Tracker
+ ## Why?
+ I recently got an iPhone after years of having and Android. One thing that annoyed me about iPhone apps is that many of them cost money. Even the simplest Habit Tracking app required a subscription. So, I decided I wanted to try and make my own.
+ ## What is it?
  - A simple app that allows you to add and track habits that you wish to develop.
  - Built using Expo Dev Tools
  - Built based on framework provided by time-tracking app from Fullstack React Native by Devin Abbot et al.
